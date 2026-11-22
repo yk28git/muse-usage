@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-22T09:19:19+09:00",
+  "updated_at": "2026-11-22T11:19:21+09:00",
   "plan": "Free",
   "weekly": {
-    "percent_used": 5,
+    "percent_used": 6,
     "resets_at": "2026-11-28T18:56:00+09:00"
   },
   "additional_tokens": {
